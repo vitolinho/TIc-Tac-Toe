@@ -1,4 +1,4 @@
-### <p align="center">Mini Projet python• Tic Tac Toe sur console </p>
+### <p align="center">Mini Projet python• Morpion sur console </p>
 
 
 
